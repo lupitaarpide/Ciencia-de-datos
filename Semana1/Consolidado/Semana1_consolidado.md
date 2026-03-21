@@ -496,13 +496,13 @@ Incluye variables como nombre, edad, sexo, clase de boleto, tarifa, cabina, emba
 * La edad afecto la probabilidad de sobrevivir?
 
 ---
-# 3. Resumen de Aprendizaje
+### 3. Resumen de Aprendizaje
 
 Esta semana aprendi los conceptos basicos de ciencia de datos y Big Data: perfiles profesionales, las 5 V y la diferencia entre datos estructurados y no estructurados. Tambien entendi la importancia de una buena arquitectura de almacenamiento y el uso de bases NoSQL cuando hay datos variados. En las actividades practicas resolvi ejercicios de algebra y funciones, notacion cientifica, diagramas de flujo, pseudocodigo y operaciones booleanas. Ademas investigue historia y herramientas de Big Data, analice casos de uso de Netflix, Amazon y Spotify, y explore datasets publicos en Kaggle. Con todo esto quede con una idea mas clara de como la ciencia de datos usa estadistica, programacion y negocio para tomar mejores decisiones.
 
 ---
 
-# 4. Dudas o Preguntas
+### 4. Dudas o Preguntas
 
 - Que criterios debo usar para elegir entre una base de datos relacional y una NoSQL en un proyecto real?
 
