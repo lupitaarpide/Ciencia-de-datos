@@ -52,7 +52,7 @@ Dada la función f(x) = 2x + 3:
 - f(10)= 23
 - 
 - Graficar la función e identificar la pendiente y ordenada al origen
-
+![Gráfica](imgs/Gráfica.png)
 
 ### Ejercicio 3: Escalas y Volúmenes (Big Data)
 Expresar en notación científica:
@@ -78,51 +78,13 @@ Expresar en notación científica:
 ### Ejercicio 4: Diagramas de Flujo
 Diseñar un algoritmo simple para:
 1. Determinar si un número es par o impar
-```
-   flowchart TD
-    A[Inicio] --> B[Ingresar número]
-    B --> C{¿Número % 2 == 0?}
-    C -->|Sí| D[Es par]
-    C -->|No| E[Es impar]
-    D --> F[Fin]
-    E --> F
-``` 
+![Diagrama1](imgs/Diagrama1.png)
    
 3. Calcular el promedio de 3 números
-```    
-   flowchart TD
-    A[Inicio] --> B[Ingresar n1]
-    B --> C[Ingresar n2]
-    C --> D[Ingresar n3]
-    D --> E[Suma = n1 + n2 + n3]
-    E --> F[Promedio = Suma / 3]
-    F --> G[Mostrar promedio]
-    G --> H[Fin]
-``` 
+![Diagrama2](imgs/Diagrama2.png) 
 
 5. Encontrar el mayor de 4 números
-```
-   flowchart TD
-    A[Inicio] --> B[Ingresar n1, n2, n3, n4]
-    B --> C[Mayor = n1]
-    C --> D{¿n2 > Mayor?}
-    D -->|Sí| E[Mayor = n2]
-    D -->|No| F[Continuar]
-    E --> G
-    F --> G
-    G --> H{¿n3 > Mayor?}
-    H -->|Sí| I[Mayor = n3]
-    H -->|No| J[Continuar]
-    I --> K
-    J --> K
-    K --> L{¿n4 > Mayor?}
-    L -->|Sí| M[Mayor = n4]
-    L -->|No| N[Continuar]
-    M --> O
-    N --> O
-    O --> P[Mostrar Mayor]
-    P --> Q[Fin]
-```
+![Diagrama3](imgs/Diagrama3.png)
 
 ### Ejercicio 5: Pseudocódigo
 Escribir pseudocódigo para:
