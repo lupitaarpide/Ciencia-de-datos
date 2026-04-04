@@ -581,6 +581,31 @@ Para mí es un modelo simple y flexible, totalmente funcional para una frutería
 
 ## 3. Resumen de Aprendizaje
 
+- Comprensión de consultas SQL básicas: `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY` y `UPDATE`.
+
+- Uso de JOINs (INNER y LEFT) para relacionar tablas y combinar información.
+
+- Manipulación de datos en JSON y Python (inserción, búsqueda, filtrado y actualización).
+
+- Uso de estructuras de datos en Python (listas y diccionarios) para simular bases de datos.
+
+- Aplicación de operaciones CRUD en MongoDB (Create, Read, Update, Delete).
+
+- Uso de consultas avanzadas en MongoDB (filtros, agregaciones y proyecciones).
+
+- Identificación de tipos de bases de datos NoSQL (Documental, Key-Value, Columnar y Grafos) y sus casos de uso.
+
+- Comprensión de arquitecturas de datos: Data Lake, Data Warehouse y Data Mart.
+
+- Diferenciación entre sistemas OLTP y OLAP según su propósito y rendimiento.
+
+- Entendimiento del proceso ETL (Extract, Transform, Load).
+
+- Diseño de un modelo de datos en MongoDB aplicado a un caso práctico.
+
+- Integración de Python con MongoDB mediante la librería `pymongo`.
+
+- Reflexión sobre la organización de repositorios en GitHub.
 
 
 ---
