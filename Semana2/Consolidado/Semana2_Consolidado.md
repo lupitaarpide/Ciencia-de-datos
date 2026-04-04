@@ -322,7 +322,7 @@ Un Data Lake es un repositorio que almacena datos en su formato bruto (raw).
 El Data Warehouse es como un almacén súper ordenado con estantes etiquetados. Aquí los datos ya están limpios, estructurados y listos para ser analizados.
 
 - __Contenido__: Solo datos estructurados (tablas) que ya pasaron por un proceso de limpieza y organización.
-
+[Semana2_Consolidado.md](Semana2_Consolidado.md)
 - __Uso__: Lo usan los gerentes y analistas de negocios para crear reportes (ej. "¿Cuántos V-Bucks se vendieron en México el último mes?").
 
 #### 3. Diferencias entre OLTP y OLAP
@@ -624,6 +624,41 @@ Gracias.
 
 
 ## 5. Referencias
-- https://www.ibm.com/mx-es/think/topics/data-mart
-- https://www.ibm.com/mx-es/think/topics/data-warehouse
-- https://www.ibm.com/mx-es/think/topics/data-lake
+- Amazon Web Services. (s. f.). *¿Qué es el procesamiento analítico en línea (OLAP)?*  
+  https://aws.amazon.com/es/what-is/olap/
+
+- Content Studio. (2025, 26 noviembre). *¿Qué es una base de datos columnar?* Everpure (antes Pure Storage).  
+  https://www.purestorage.com/es/knowledge/what-is-a-columnar-database.html
+
+- MongoDB. (s. f.). *Document Database - NoSQL*.  
+  https://www.mongodb.com/resources/basics/databases/document-databases
+
+- IBM. (2025, noviembre 27). *ETL*.  
+  https://www.ibm.com/mx-es/think/topics/etl
+
+- IBM. (2025, noviembre 27). *Mercado de datos (Data Mart)*.  
+  https://www.ibm.com/mx-es/think/topics/data-mart
+
+- IBM. (2025, noviembre 27). *OLTP*.  
+  https://www.ibm.com/mx-es/think/topics/oltp
+
+- Jonker, A., Holdsworth, J., & Kosinski, M. (2025, noviembre 27). *Data warehouse*. IBM.  
+  https://www.ibm.com/mx-es/think/topics/data-warehouse
+
+- Jonker, A., & Kosinski, M. (2026, marzo 20). *Data lake*. IBM.  
+  https://www.ibm.com/mx-es/think/topics/data-lake
+
+- Google Cloud. (s. f.). *¿Qué es una base de datos de grafos?*  
+  https://cloud.google.com/discover/what-is-a-graph-database?hl=es
+
+- Amazon Web Services. (s. f.). *What is a document database?*  
+  https://aws.amazon.com/nosql/document/
+
+- Amazon Web Services. (s. f.). *What is a graph database?*  
+  https://aws.amazon.com/nosql/graph/
+
+- MongoDB. (s. f.). *What is a key-value database?*  
+  https://www.mongodb.com/resources/basics/databases/key-value-database
+
+- Amazon Web Services. (s. f.). *What is a key-value database?*  
+  https://aws.amazon.com/nosql/key-value/
