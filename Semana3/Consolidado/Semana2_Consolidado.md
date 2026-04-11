@@ -373,7 +373,7 @@ Un Data Mart es un subconjunto de un almacén de datos (data warehouse) que se c
 Lo que hace es facilitarle a los trabajadores de ciertas áreas de negocio el acceso a los datos necesarios para realizar sus tareas.
 
 #### 4. Diagrama sobre las diferencias entre ellos.
-![Diagrama](./../Actividades/Actividad2.1/Diagrama_Act2.1.png)
+![Diagrama](../Actividades/Actividad3.1/Diagrama_Act2.1.png)
 
 ---
 
