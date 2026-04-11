@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="364235c6-9134-491f-b1f2-6e27cb8650e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Semana3/Actividades/Actividad2.1/Arquitecturas de Datos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Actividades/Actividad2.1/Diagrama_Act2.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Actividades/Actividad2.2/Introudccion a MongoDB.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Actividades/Actividad2.3/Operaciones CRUD.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Actividades/Actividad2.4/Modelado de Datos NoSQL.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Consolidado/Semana2_Consolidado.md" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Consolidado/Semana2_Consolidado.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Analisis_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Analisis_EDA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/Diagrama_precio_log.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/Diagrama_precio_log.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/Diagrama_precio_real.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/Diagrama_precio_real.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/MapaCorrelaciones.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/MapaCorrelaciones.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/PrecioCapacidad.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/PrecioCapacidad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/PrecioTipoHabitacion.png" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Proyecto/Avance/Visualizaciones/PrecioTipoHabitacion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana3/Consolidado/Semana3_Consolidado.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana3/Actividades/Actividades Complementarias 3/3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Semana3/Actividades/Actividades Complementarias 3/3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana3/Consolidado/Semana2_Consolidado.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Semana3/Actividades/Actividades Complementarias 3" />
       <recent name="$PROJECT_DIR$/Semana3/Actividades/Actividad3.2" />
     </key>
   </component>

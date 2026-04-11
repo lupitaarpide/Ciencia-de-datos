@@ -1,15 +1,12 @@
-# -----------------------------
+
 # 1. LISTAS
-# -----------------------------
 
 # Lista de números
 numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 print("Lista original:", numeros)
 
-# -----------------------------
 # 2. DICCIONARIOS
-# -----------------------------
 
 # Diccionario con información de estudiantes
 estudiantes = {
@@ -22,9 +19,7 @@ print("\nDiccionario de estudiantes:")
 for nombre, datos in estudiantes.items():
     print(f"{nombre} -> Edad: {datos['edad']}, Promedio: {datos['promedio']}")
 
-# -----------------------------
 # 3. DATAFRAMES
-# -----------------------------
 
 # Importamos pandas para trabajar con DataFrames
 import pandas as pd
@@ -44,9 +39,7 @@ df_estudiantes["Aprobado"] = df_estudiantes["Promedio"] >= 7.0
 print("\nDataFrame con columna 'Aprobado':")
 print(df_estudiantes)
 
-# -----------------------------
 # 4. FUNCIONES LAMBDA
-# -----------------------------
 
 # Función lambda para duplicar un número
 duplicar = lambda x: x * 2
@@ -61,9 +54,7 @@ print(duplicados)
 mayor_que_5 = lambda x: x > 5
 print("\n¿7 es mayor que 5?:", mayor_que_5(7))
 
-# -----------------------------
 # 5. MANEJO DE ERRORES
-# -----------------------------
 
 # Intentamos realizar una división controlando posibles errores
 try:
@@ -78,13 +69,7 @@ except ValueError:
 except ZeroDivisionError:
     print("Error: no se puede dividir entre cero, pasaste el kinder?.")
 
-# -----------------------------
 # 6. CINCO EJERCICIOS BÁSICOS
-# -----------------------------
-
-print("\n==============================")
-print("EJERCICIOS DE PROGRAMACIÓN")
-print("==============================")
 
 # Ejercicio 1: Verificar si un número es positivo, negativo o cero
 def clasificar_numero(n):
