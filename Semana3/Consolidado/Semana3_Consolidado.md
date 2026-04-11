@@ -61,6 +61,7 @@ plt.xlim(0, 500)
 plt.savefig("./Visualizaciones/Diagrama_precio_real.png")
 plt.show()
 ```
+![DiagramaDeCajas](./../Proyecto/Avance/Visualizaciones/Diagrama_precio_real.png)
 
 ## Diagrama de cajas (precio)
 
@@ -84,7 +85,7 @@ plt.ylabel("Precio")
 plt.savefig("./Visualizaciones/PrecioCapacidad.png")
 plt.show() 
 ```
-
+![DiagramaDeCajas](./../Proyecto/Avance/Visualizaciones/PrecioCapacidad.png)
 ## Precio vs Capacidad
 Anteriormente, se pudo observar por que precios rondan los Airbnb en Estados Unidos, en esta gráfica se profundiza en los factores que influyen en dichos precios, específicamente la relación entre la capacidad del alojamiento y su costo.
 
@@ -107,6 +108,7 @@ plt.xticks(rotation=20)
 plt.savefig("./Visualizaciones/PrecioTipoHabitacion.png", dpi=300, bbox_inches="tight")
 plt.show()
 ```
+![DiagramaDeCajas](./../Proyecto/Avance/Visualizaciones/PrecioTipoHabitacion.png)
 ## Precio por tipo de  habitación
 Al analizar el dataset, se identifican tres tipos principales de alojamientos en Airbnb: Shared room, Private room y Entire home/apt. Con el fin de profundizar en el análisis, se evaluó cómo varían los precios entre estos tipos de habitación utilizando un diagrama de cajas.
 
@@ -124,6 +126,8 @@ plt.title("Mapa de calor de correlaciones")
 plt.savefig("./Visualizaciones/MapaCorrelaciones.png")
 plt.show()
 ```
+![DiagramaDeCajas](./../Proyecto/Avance/Visualizaciones/MapaCorrelaciones.png)
+
 ## Mapa de calor de Correlaciónes
 Con el objetivo de identificar qué variables influyen en el precio de los Airbnb, se utilizó un mapa de calor de correlaciones. Este mapa permite visualizar la relación entre las distintas variables del dataset, facilitando la identificación de aquellas que tienen mayor impacto en el precio.
 
@@ -640,6 +644,7 @@ plt.ylabel("Frecuencia")
 plt.savefig("HistogramaPrecio.png")
 plt.show()
 ```
+![Histograma del precio de cierre del oro](./../Actividades/Actividades%20Complementarias%203/Graficos/HistogramaPrecio.pngA)
 
 __Interpretación:__ La mayoría de los precios están entre 200 y 2000 dólares más o menos. Se ve que hay muchos más días con precios bajos que con precios muy altos. Y es porque el oro era más barato antes y con el tiempo fue subiendo.
 
@@ -657,7 +662,7 @@ plt.tight_layout()
 plt.savefig("PrecioPromDeCiere.png")
 plt.show()
 ```
-
+![Histograma del precio de cierre del oro](./../Actividades/Actividades%20Complementarias%203/Graficos/PrecioPromDeCiere.png)
 __Interpretación:__ Se ve bien claro que el precio fue subiendo cada año. En el año 2000 era muy barato y en los más recientes está muy caro.
 
 #### 3. Diagrama de dispersión: precio de apertura vs precio de cierre
@@ -671,6 +676,8 @@ plt.tight_layout()
 plt.savefig("PrecioDeApertura_VS_PrecioDeCierre.png")
 plt.show()
 ```
+![Histograma del precio de cierre del oro](./../Actividades/Actividades%20Complementarias%203/Graficos/PrecioDeApertura_VS_PrecioDeCierre.png)
+
 __Interpretación:__ Los puntos forman casi una línea diagonal, eso significa que el precio de apertura y el de cierre son casi iguales cada día. Tiene sentido porque en un solo día el precio no va a cambiar muchísimo.
 
 #### 4. Mapa de calor de correlaciones
@@ -685,14 +692,26 @@ plt.tight_layout()
 plt.savefig("heatmap_correlaciones.png")
 plt.show()
 ```
+![Histograma del precio de cierre del oro](./../Actividades/Actividades%20Complementarias%203/Graficos/heatmap_correlaciones.png)
 __Interpretación:__ Los precios open, high, low y close tienen números muy cercanos a 1, lo que quiere decir que están muy relacionados entre sí. El volumen tiene números más chicos, eso significa que no tiene mucha relación con el precio.
+
 
 ---
 
 ## 3. Resumen de Aprendizaje
 
-
+* Refuerzo de fundamentos de Python: variables, tipos de datos, condicionales, ciclos y funciones. 
+* Uso de NumPy para operaciones matemáticas y manipulación de arreglos. 
+* Manejo de Pandas: creación, filtrado, ordenamiento y agrupación de DataFrames. 
+* Limpieza de datos: tratamiento de valores nulos, eliminación de duplicados y conversión de tipos. 
+* Creación de nuevas variables para enriquecer el análisis. 
+* Visualización de datos con Matplotlib y Seaborn (histogramas, boxplots, scatter y heatmaps). 
+* Interpretación de distribuciones, tendencias y relaciones entre variables. 
+* Aplicación del análisis exploratorio de datos (EDA) para entender datasets. 
+* Identificación de variables relevantes mediante correlaciones. 
+* Integración de todo el flujo: carga, limpieza, análisis y visualización de datos.
 
 ---
 
 ## 4. Dudas o Preguntas
+Ninguna.
