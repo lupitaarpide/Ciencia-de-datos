@@ -1,40 +1,26 @@
-# Semana 2: Arquitecturas de Datos y MongoDB
+# Semana 3: Avance de proyecto
 
-## Fecha: [03/04/2026]
+## Fecha: [10/04/2026]
 
 ## Actividades Completadas
-- [x] Actividad 2.1: Arquitecturas de Datos
-- [x] Actividad 2.2: Introducción a MongoDB
-- [x] Actividad 2.3: Operaciones CRUD
-- [x] Actividad 2.4: Modelado NoSQL
+- [x] Actividad 3.1
+- [x] Actividad 3.2
+- [x] Actividad 3.3
+- [x] Actividad 3.4
 
 ## Aprendido
-- Comprensión de consultas SQL básicas: `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY` y `UPDATE`.
 
-- Uso de JOINs (INNER y LEFT) para relacionar tablas y combinar información.
+* Refuerzo de fundamentos de Python: variables, tipos de datos, condicionales, ciclos y funciones. 
+* Uso de NumPy para operaciones matemáticas y manipulación de arreglos. 
+* Manejo de Pandas: creación, filtrado, ordenamiento y agrupación de DataFrames. 
+* Limpieza de datos: tratamiento de valores nulos, eliminación de duplicados y conversión de tipos. 
+* Creación de nuevas variables para enriquecer el análisis. 
+* Visualización de datos con Matplotlib y Seaborn (histogramas, boxplots, scatter y heatmaps). 
+* Interpretación de distribuciones, tendencias y relaciones entre variables. 
+* Aplicación del análisis exploratorio de datos (EDA) para entender datasets. 
+* Identificación de variables relevantes mediante correlaciones. 
+* Integración de todo el flujo: carga, limpieza, análisis y visualización de datos. 
 
-- Manipulación de datos en JSON y Python (inserción, búsqueda, filtrado y actualización).
-
-- Uso de estructuras de datos en Python (listas y diccionarios) para simular bases de datos.
-
-- Aplicación de operaciones CRUD en MongoDB (Create, Read, Update, Delete).
-
-- Uso de consultas avanzadas en MongoDB (filtros, agregaciones y proyecciones).
-
-- Identificación de tipos de bases de datos NoSQL (Documental, Key-Value, Columnar y Grafos) y sus casos de uso.
-
-- Comprensión de arquitecturas de datos: Data Lake, Data Warehouse y Data Mart.
-
-- Diferenciación entre sistemas OLTP y OLAP según su propósito y rendimiento.
-
-- Entendimiento del proceso ETL (Extract, Transform, Load).
-
-- Diseño de un modelo de datos en MongoDB aplicado a un caso práctico.
-
-- Integración de Python con MongoDB mediante la librería `pymongo`.
-
-- Reflexión sobre la organización de repositorios en GitHub.
 
 ## Dudas o Bloqueos
-- En el consolidado mencioné una duda que tengo. Sin embargo, también me surge otra relacionada con la gestión del repositorio: ¿usted revisará las ramas o todo debe estar en la rama *main*?
-Hasta ahora, lo que he estado haciendo es trabajar cada actividad en su respectiva rama y únicamente dejar en *main* la actividad de la semana actual, actualizándola conforme avanzamos.
+- Ninguno.
