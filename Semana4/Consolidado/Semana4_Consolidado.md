@@ -637,8 +637,8 @@ __Resultado:__
 ---
 
 ### Actividad 4.2:  
-[Actividad4.2] ()
-
+[Actividad4.2] (https://github.com/lupitaarpide/Ciencia-de-datos/blob/main/Semana4/Actividades/Actividad4.2/Actividad4.2.ipynb)  
+Me dió flojera poner la actividad 4.2 en el consolidado pq ya la había puesto y no hizo el push y ya no pude recuperarla
 ---
 
 ### Actividad 4.3: Transformación de Datos
