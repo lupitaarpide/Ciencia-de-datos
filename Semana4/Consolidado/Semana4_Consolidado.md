@@ -112,7 +112,7 @@ print("MinMax:\n", minmax.fit_transform(datos))
 print("Standard:\n", standard.fit_transform(datos))
 ```
 
-### Ejercicio 4: Identificación de Valores Faltantes
+#### Ejercicio 4: Identificación de Valores Faltantes
 ```python
 import pandas as pd
 import numpy as np
@@ -149,7 +149,7 @@ print(df[df.isnull().any(axis=1)])
 
 ---
 
-###### Ejercicio 5: Estrategias de Imputación
+#### Ejercicio 5: Estrategias de Imputación
 ```python
 # Para el mismo DataFrame, aplicar:
 # 1. Eliminar filas con valores faltantes
