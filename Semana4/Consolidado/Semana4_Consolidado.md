@@ -636,7 +636,8 @@ __Resultado:__
 
 ---
 
-### Actividad 4.2: 
+### Actividad 4.2:  
+[Actividad4.2] ()
 
 ---
 
@@ -825,11 +826,20 @@ __Cuando no utilizar:__
 ---
 
 ## 4. Resumen de Aprendizaje
-
+- Normalización Min-Max: escala los datos entre 0 y 1.
+- Estandarización (Z-score): transforma datos a media 0 y desviación estándar 1.
+- Identificación de valores nulos con `isnull()` y `notnull()`.
+- Manejo de valores faltantes
+- Uso de `SimpleImputer` para automatizar imputación.
+- Detección de outliers
+- Manejo de outliers
+- Codificación de variables categóricas
+- Transformaciones numéricas
+- Creación de nuevas variables (ratios, diferencias, categorías)
+- Comparación de escaladores
+- Uso de pipelines para automatizar el preprocesamiento de datos.
+- Importancia del preprocesamiento para mejorar el rendimiento de modelos.
 ---
 
 ## 5. Dudas o Preguntas
-
----
-
-## 6. Referencias
+Ninguna profe.
