@@ -4,3 +4,4 @@
 - [x] Semana 2: Arquitecturas y MongoDB
 - [x] Semana 3: Avance de Proyecto
 - [x] Semana 4: Actividad 3
+- [x] Semana 5: Actividad 4
