@@ -88,27 +88,6 @@ plt.show()
 
 Las variables con mayor correlación con el precio son `accommodates`, `bedrooms` y `bathrooms`. Existe correlación alta entre `accommodates`, `beds` y `bedrooms` entre sí, lo que indica posible multicolinealidad que revisaremos más adelante con el VIF.
 
-
-```python
-sns.pairplot(df[numericas].sample(2000, random_state=42))
-plt.suptitle("Relaciones entre Variables Numéricas", y=1.02)
-plt.show()
-```
-
-El pairplot confirma que `accommodates`, `bedrooms` y `bathrooms` tienen una relación positiva con el precio. La relación no es perfectamente lineal, especialmente en propiedades de precio muy alto, pero la tendencia general es clara.
-
-
-```python
-for var in ["room_type", "city", "cancellation_policy"]:
-    plt.figure(figsize=(10, 5))
-    sns.boxplot(x=var, y="price", data=df)
-    plt.title(f"Precio por {var}")
-    plt.xticks(rotation=30)
-    plt.show()
-```
-
-Los boxplots muestran diferencias importantes según el tipo de habitación y la ciudad. Las propiedades de tipo _Entire home/apt_ tienen precios considerablemente más altos que las habitaciones privadas o compartidas. Por ciudad, San Francisco y Nueva York presentan precios medios más elevados que el resto.
-
 ## Parte 4 — División entrenamiento y prueba
 
 
