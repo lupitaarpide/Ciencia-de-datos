@@ -1,5 +1,0 @@
-
-De que trata el proyecto:
-- Propiedades de AirBnB en 6 iudades de EEUU.
-- Base de datos de +74,000 propiedades.
-- OBJETIVO: Modelo que sea capáz de predecir el precio de una propiedad.
